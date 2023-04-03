@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "589612127384",
+    "project_id": "reportable-patrol",
+    "storage_bucket": "reportable-patrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589612127384:android:bf479b1408628b7ef9aced",
+        "android_client_info": {
+          "package_name": "com.egalite.laporin.laporin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589612127384-ou8vef8c2jg5sjsvdr312jid7g72bbma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfc_88arwAn85QJFRPeRgKOchOQiMzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589612127384-ou8vef8c2jg5sjsvdr312jid7g72bbma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589612127384-kt24hmehol101jn36gt8beqij0l7vt3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egalite.laporin.laporin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589612127384:android:55f308e1ce1f6c58f9aced",
+        "android_client_info": {
+          "package_name": "com.example.reportable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589612127384-ou8vef8c2jg5sjsvdr312jid7g72bbma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfc_88arwAn85QJFRPeRgKOchOQiMzQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589612127384-ou8vef8c2jg5sjsvdr312jid7g72bbma.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589612127384-kt24hmehol101jn36gt8beqij0l7vt3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egalite.laporin.laporin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
